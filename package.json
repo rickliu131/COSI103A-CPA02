@@ -1,0 +1,19 @@
+{
+  "name": "cpa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickliu131/COSI103A-CPA02.git"
+  },
+  "author": "Yuxuan Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickliu131/COSI103A-CPA02/issues"
+  },
+  "homepage": "https://github.com/rickliu131/COSI103A-CPA02#readme"
+}
